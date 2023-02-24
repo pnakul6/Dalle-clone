@@ -1,0 +1,15 @@
+{
+  "name": "dalle-clone",
+  "version": "1.0.0",
+  "description": "AI image generation using OpenAI",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "dalle-clone"
+  },
+  "author": "",
+  "license": "ISC"
+}
